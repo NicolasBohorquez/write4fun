@@ -31,9 +31,12 @@ feed:
     description: 'Sample Blog Description'
 pagination: true
 child_type: item
+hero_image: louis-hansel-SCc9AndIwJ4-unsplash(1).jpg
+header_image_alt_text: 'World made in wood'
+header_image_credit: 'Photo by <a href="https://unsplash.com/@louishansel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Louis Hansel</a> on <a href="https://unsplash.com/photos/world-map-wall-decor-SCc9AndIwJ4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
 ---
 
 # Write **4** Fun
 ## Sports, Finance, Simulation, Opinions
-Photo by <a href="https://unsplash.com/@louishansel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Louis Hansel</a> on <a href="https://unsplash.com/photos/world-map-wall-decor-SCc9AndIwJ4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
   
