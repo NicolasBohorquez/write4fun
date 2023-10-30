@@ -31,7 +31,8 @@ feed:
     description: 'Sample Blog Description'
 pagination: true
 child_type: item
+media_order: louis-hansel-SCc9AndIwJ4-unsplash(1).jpg
 ---
 
-# My **Open Publishing** Space
-## Create, Share and Collaborate
+# Write **4** Fun
+## Sports, Finance, Simulation, Opinions
