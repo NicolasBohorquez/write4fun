@@ -17,7 +17,7 @@ modular_content:
 content:
     items:
         - '@self.children'
-    limit: 6
+    limit: 10
     order:
         by: date
         dir: desc
@@ -28,12 +28,13 @@ display_post_summary:
     enabled: false
 feed:
     limit: 10
-    description: 'Sample Blog Description'
+    description: 'Post on finance, smultion, sports'
 pagination: true
 child_type: item
 hero_image: louis-hansel-SCc9AndIwJ4-unsplash(1).jpg
 header_image_alt_text: 'World made in wood'
 header_image_credit: 'Photo by <a href="https://unsplash.com/@louishansel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Louis Hansel</a> on <a href="https://unsplash.com/photos/world-map-wall-decor-SCc9AndIwJ4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
+header_image_creditlink: 'https://unsplash.com/@louishansel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'
 ---
 
 # Write **4** Fun
